@@ -73,4 +73,4 @@ RDS User: edu | Password: S3curePass-2026!
 
 **Built with Terraform on AWS** | **48 Resources Deployed** | **Fully Automated**
 
-[View on GitHub](https://github.com/ProtocS2/terraform-aws-protoc) **Deploy in 10 minutes!**
+[View on GitHub](https://github.com/ProtocS2/terraform-aws-protoc) **Deploy in 20 minutes!**
